@@ -1,6 +1,17 @@
 # Z Morse Code – Translator & Tool 📡
 
-**Z Morse Code** is an intuitive, bidirectional translator for Morse code on Android. Designed for enthusiasts, professionals, and students alike, it offers a clean, efficient interface for encoding and decoding Morse signals.
+**Z Morse Code** is an intuitive, bidirectional translator for Morse code on Android. It was the **first-ever application released under the Zentix brand**.
+
+---
+
+## 📥 Downloads
+
+<a href="https://play.google.com/store/apps/details?id=com.ksdmorsecode">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200">
+</a>
+
+- **Official Play Store**: Get it on [Google Play Store](https://play.google.com/store/apps/details?id=com.ksdmorsecode)
+- **Direct APK**: Download the latest [ZMorseCode.apk](https://github.com/kaali-k/Z-Morse-Code/releases/latest/download/ZMorseCode.apk) from GitHub Releases.
 
 ---
 
